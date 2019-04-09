@@ -1,0 +1,23 @@
+{
+  "name": "willabbot.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.js",
+  "scripts": {
+    "build": "npx tailwind build tailwind.css -c ./tailwind.js -o ./assets/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wabbot24/willabbot.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wabbot24/willabbot.com/issues"
+  },
+  "homepage": "https://github.com/wabbot24/willabbot.com#readme",
+  "devDependencies": {
+    "tailwindcss": "^0.7.4"
+  }
+}
